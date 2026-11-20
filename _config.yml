@@ -1,0 +1,6 @@
+title: MileLog
+description: Mileage log for business trips
+theme: jekyll-theme-primer
+markdown: kramdown
+kramdown:
+  input: GFM
